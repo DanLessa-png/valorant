@@ -1,0 +1,9 @@
+body{
+    background-image: url(https://preview.redd.it/iyaacpwpwfr41.png?auto=webp&s=c56cfe42a050a5a4ab6942eb5c7f9eef6bba65de);
+    display: flex;
+    font-family: 'fira code';
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: repeat;
+}
